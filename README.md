@@ -1,5 +1,4 @@
-<h1 align="center">Amay Fondation</h1>
-
+<h3 align="center">Amay Fondation</h3>
 <h3 align="center">Fullstack developer</h3>
 
 <div align="center"> 
