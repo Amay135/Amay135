@@ -1,6 +1,6 @@
 <h1 align="center">Amay Fondation</h1>
 
-<h3 align="center">I'm a Fullstack developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <div align="center"> 
   <a href="mailto:amaryaqin135@gmail.com">
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Skill</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,github,figma" alt="Skill Icons" />
