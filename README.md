@@ -17,7 +17,7 @@
 <h2 align="center">Languages</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,,github,figma" alt="Skill Icons" />
   <img src="https://skillicons.dev/icons?i=python,javascript,flask" alt="Skill Icons" /><br>
 </div>
 
