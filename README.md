@@ -1,4 +1,4 @@
-<h3 align="center">Amay Fondation</h3>
+<h1 align="center">Amay Fondation</h1>
 <h3 align="center">Fullstack developer</h3>
 
 <div align="center"> 
@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,github,figma" alt="Skill Icons" />
   <img src="https://skillicons.dev/icons?i=python,javascript,flask" alt="Skill Icons" /><br>
 </div>
+
+<h2 align="center">My</h2>
 
 <div align="center"> 
   <img src="https://drive.google.com/uc?export=view&id=1FS_cFCbDK-6pyn4Tiundmm4r9GOqtGWV" alt="Profile Picture" width="160" height="160">
