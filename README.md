@@ -1,5 +1,16 @@
-<h1 align="center">Amay Fondation</h1>
+<h1 align="center">Amay</h1>
 <h3 align="center">Fullstack developer</h3>
+
+<h2 align="center">Skill</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,github,figma" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,flask" alt="Skill Icons" /><br>
+</div>
+
+<div align="center"> 
+  <img src="https://drive.google.com/uc?export=view&id=1FS_cFCbDK-6pyn4Tiundmm4r9GOqtGWV" alt="Profile Picture" width="160" height="160">
+</div>
 
 <div align="center"> 
   <a href="mailto:amaryaqin135@gmail.com">
@@ -11,17 +22,4 @@
   <a href="https://www.instagram.com/amay.r_/profilecard/?igsh=eHU1cGFmYWxzcXdo" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/FFFFFF/instagram-new.png" style="background-color: #E1306C;" alt="Instagram" /> <!-- Instagram -->
   </a>
-</div>
-
-<h2 align="center">Skill</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,github,figma" alt="Skill Icons" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,flask" alt="Skill Icons" /><br>
-</div>
-
-<h2 align="center">My</h2>
-
-<div align="center"> 
-  <img src="https://drive.google.com/uc?export=view&id=1FS_cFCbDK-6pyn4Tiundmm4r9GOqtGWV" alt="Profile Picture" width="160" height="160">
 </div>
