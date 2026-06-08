@@ -1,4 +1,4 @@
-<h1 align="center">Amay</h1>
+<h1 align="center">Amay.r</h1>
 <h3 align="center">Fullstack developer</h3>
 
 <h2 align="center">Skill</h2>
@@ -11,6 +11,7 @@
 <div align="center"> 
   <img src="https://drive.google.com/uc?export=view&id=1FS_cFCbDK-6pyn4Tiundmm4r9GOqtGWV" alt="Profile Picture" width="160" height="160">
 </div>
+
 
 <div align="center"> 
   <a href="mailto:amaryaqin135@gmail.com">
