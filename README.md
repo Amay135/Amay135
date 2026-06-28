@@ -1,26 +1,29 @@
-<h1 align="center">Amay.r</h1>
-<h3 align="center">Fullstack developer</h3>
-
-<h2 align="center">Skill</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,github,figma" alt="Skill Icons" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,flask" alt="Skill Icons" /><br>
-</div>
 
-<div align="center"> 
-  <img src="https://drive.google.com/uc?export=view&id=1FS_cFCbDK-6pyn4Tiundmm4r9GOqtGWV" alt="Profile Picture" width="160" height="160">
-</div>
+# Halo, saya Amay! 👋
+### Fullstack Developer
 
+Selamat datang di profil GitHub saya. Saya senang mengeksplorasi teknologi baru, terutama dalam pengembangan web dengan Python dan Flask.
 
-<div align="center"> 
-  <a href="mailto:amaryaqin135@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/gmail.png" style="background-color: #EA4335;" alt="Gmail" /> <!-- Gmail -->
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/discord.png" style="background-color: #7289DA;" alt="Discord" /> <!-- Discord -->
-  </a>
-  <a href="https://www.instagram.com/amay.r_/profilecard/?igsh=eHU1cGFmYWxzcXdo" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/instagram-new.png" style="background-color: #E1306C;" alt="Instagram" /> <!-- Instagram -->
-  </a>
+---
+
+### 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<!-- Anda bisa menambahkan statistik otomatis di sini agar terlihat lebih aktif -->
+<img src="https://github-readme-stats.vercel.app/api?username=Amay135&show_icons=true&theme=radical&hide_border=true" />
+
+---
+
+### 📬 Kontak
+Saya terbuka untuk diskusi teknis atau peluang kolaborasi.
+[Email Anda] | [Username Discord]
 </div>
