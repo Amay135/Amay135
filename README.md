@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amay 👋</h1>
+<h1 align="center">Hi, I'm Amay</h1>
 <h3 align="center">Fullstack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
@@ -25,48 +25,19 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amay135&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amay135&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amay135&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amay135&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amay135&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/Amay135">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://discord.com">
+<a href="[[https://discord.com](https://discord.com/channels/@me](https://discord.com/channels/@me)">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
-<a href="https://instagram.com/USERNAME_KAMU">
+<a href="https://instagram.com/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="mailto:EMAIL_KAMU@gmail.com">
+<a href="mailto:amarmarufainulyaqin@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
