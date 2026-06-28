@@ -2,9 +2,9 @@
 
 # 🌙 Amay
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Python+Enthusiast;Anime+Lover;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Python;Nino;Always+Learning+New+Things" />
 
-<img src="https://i.imgur.com/qQ2Z8YF.gif" width="250"/>
+<img src="[https://i.imgur.com/qQ2Z8YF.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR5aDFmeGN2M2o1Zm1ubm53aWFoMmF6YW52YW15ZmdiYjBubWVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uyBIBIqyzFt4CU0j80/giphy.gif)" width="250"/>
 
 *"Code under the moonlight, build dreams with coffee."* ☕
 
@@ -33,7 +33,7 @@ Favorite Language: Python 🐍
 Interests:
   - Web Development
   - UI Design
-  - Anime & Manga
+  - Machine learning
   - Open Source
 ```
 
